@@ -12,3 +12,5 @@
 🌀 Run the python code for prediction.
 
 🌀 Used AWS Cloud to create the setup.
+
+LinkedIn : https://www.linkedin.com/in/pratik-kohad-ab865719a/
