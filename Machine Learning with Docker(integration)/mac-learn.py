@@ -12,3 +12,6 @@ model.predict([[ 8.1 ]])
 
 import joblib
 joblib.dump(model, 'salary1.pk1')
+
+
+
