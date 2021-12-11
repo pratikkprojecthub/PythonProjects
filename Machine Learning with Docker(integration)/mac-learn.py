@@ -10,8 +10,6 @@ model = LinearRegression()
 model.fit(x, y)
 model.predict([[ 8.1 ]])
 
+# for saving the model for future use we use joblib library
 import joblib
 joblib.dump(model, 'salary1.pk1')
-
-
-
